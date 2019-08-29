@@ -9,4 +9,4 @@ https://twitter.com/lindaoranya/status/1165038333896155136?s=19
 
 Added a CSS file to my page.
 Pushed to a new branch and created a pull request.
-Post to Lucid is still not publishing.
+Second post to Lucid for CSS is still not publishing.

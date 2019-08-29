@@ -1,0 +1,32 @@
+body{
+    max-width: 1500px;
+    max-height: 1000px;
+    font-family: sans-serif;
+    font-size: 10px;
+    font-size: 0.8rem;
+}
+
+#header{
+    background-color: mistyrose;
+    color: brown;
+    font-size: 0.65rem;
+
+}
+
+#header a:hover{
+    color: red;
+
+}
+
+#skills{
+    color: brown
+}
+#heading{
+    color: darkred
+}
+#companyname{
+    color: darkred
+}
+#jobrole{
+    color: darkred
+}

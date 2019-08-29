@@ -9,4 +9,6 @@ https://twitter.com/lindaoranya/status/1165038333896155136?s=19
 
 Added a CSS file to my page.
 Pushed to a new branch and created a pull request.
-Second post to Lucid for CSS is still not publishing.
+
+Link to second post on lucid shown below
+https://lucid.blog/ol.oranya1/post/html-css-a-true-definition-of-complimentary-factor-fc6
